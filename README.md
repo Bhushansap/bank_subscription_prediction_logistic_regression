@@ -1,1 +1,1 @@
-# Logistic_Regression_BankSubscription
+# bank_subscription_prediction_logistic_regression
